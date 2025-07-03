@@ -1,4 +1,4 @@
 # MyRepo
 this is my first repository.
 <br>
-Author - Akash.
+Author - Akash Singh
